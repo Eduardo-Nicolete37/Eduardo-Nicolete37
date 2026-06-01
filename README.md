@@ -43,10 +43,13 @@ Eduardo = {
 
 ### Projeto em destaque
 
-> **[Atividades Pessoais Python](https://github.com/Eduardo-Nicolete37/Atividades_Pessoais_Python)**
+> **[Poker Advisor](https://github.com/Eduardo-Nicolete37/Poker_Advisor)**
 > 
-> Repositório de estudos em Python com jogos de terminal, ferramentas de análise e integração com APIs.
-
+> Assistente inteligente de Texas Hold'em rodando no terminal.
+>
+> **[Câmbio de Moedas](https://github.com/Eduardo-Nicolete37/CAMBIO_MOEDAS)**
+>
+> Conversor de câmbio em tempo real rodando no terminal, com suporte a Real, Dólar, Euro e Libra.
 ---
 
 ### Contato
