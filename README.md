@@ -43,12 +43,13 @@ Eduardo = {
 
 ### Projeto em destaque
 
-> **[Poker Advisor](https://github.com/Eduardo-Nicolete37/Poker_Advisor)**
+> **[BlackJack Terminal](https://github.com/Eduardo-Nicolete37/BLACKJACK_TERMINAL)**
+> Jogo de BlackJack (21) interativo rodando diretamente no terminal.
 > 
+> **[Poker Advisor](https://github.com/Eduardo-Nicolete37/Poker_Advisor)**
 > Assistente inteligente de Texas Hold'em rodando no terminal.
 >
 > **[Câmbio de Moedas](https://github.com/Eduardo-Nicolete37/CAMBIO_MOEDAS)**
->
 > Conversor de câmbio em tempo real rodando no terminal, com suporte a Real, Dólar, Euro e Libra.
 ---
 
