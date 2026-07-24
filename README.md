@@ -19,8 +19,8 @@ Atualmente com foco em **Python** — mas curioso sobre o que vem por aí.
 
 ```python
 Eduardo = {
-    "Linguagem":        "Python",
-    "Nível":       "Iniciante",
+    "Python":        "Intermediario",
+    "php":       "Iniciante",
 }
 ```
 
