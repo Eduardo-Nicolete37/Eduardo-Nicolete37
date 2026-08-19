@@ -8,12 +8,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+<div align="center" style="display: inline-block;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=CourierNew&color=%ccc&size=48&center=true&vCenter=true&width=1200&height=100&lines=Olá!;+Seja+bem+vindo+ao+meu+github+do+SENAI!;Meu+nome+é+Eduardo" alt="Typing SVG" style="display: inline-block;">
+</div>
 <div align="center">
-
-### Oi, eu sou o Eduardo
-
 Estou no início da minha jornada na programação, aprendendo na prática e construindo coisas reais.<br>
-Atualmente com foco em **Python** — mas curioso sobre o que vem por aí.
 
 </div>
 
